@@ -43,7 +43,7 @@ nav li a:hover {
 
 p {
   font-family: serif;
-  font-size: .8rem;
+  font-size: 1.125rem;
   color: #222;
 }
 
@@ -55,7 +55,7 @@ p {
 figcaption {
   text-align: center;
   font-family: serif;
-  font-size: .8rem;
+  font-size: 1.125rem;
   font-style: italic;
   color: #222;
 }
@@ -78,7 +78,7 @@ footer cite {
 
 .beet-types li {
   list-style-type: lower-greek;
-  font-size: .8rem;
+  font-size: 1.125rem;
   font-family: serif;
   color: #222;
 }
@@ -88,13 +88,13 @@ footer cite {
 }
 
 dl dt {
-  font-size: .8rem;
+  font-size: 1.125rem;
   font-weight: bold;
   color: #222;
 }
 
 dl dd {
-  font-size: .8rem;
+  font-size: 1.125rem;
   font-weight: normal;
   color: #222;
 }

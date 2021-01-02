@@ -43,7 +43,7 @@ nav li a:hover {
 
 p {
   font-family: serif;
-  font-size: 0.8rem;
+  font-size: .8rem;
   color: #222;
 }
 
@@ -55,7 +55,7 @@ p {
 figcaption {
   text-align: center;
   font-family: serif;
-  font-size: 0.8rem;
+  font-size: .8rem;
   font-style: italic;
   color: #222;
 }
@@ -72,13 +72,13 @@ strong {
 }
 
 footer cite {
-  font-size: 0.8rem;
+  font-size: .8rem;
   color: #222;
 }
 
 .beet-types li {
   list-style-type: lower-greek;
-  font-size: 0.8rem;
+  font-size: .8rem;
   font-family: serif;
   color: #222;
 }
@@ -88,19 +88,19 @@ footer cite {
 }
 
 dl dt {
-  font-size: 0.8rem;
+  font-size: .8rem;
   font-weight: bold;
   color: #222;
 }
 
 dl dd {
-  font-size: 0.8rem;
+  font-size: .8rem;
   font-weight: normal;
   color: #222;
 }
 
 ul li {
-  font-size: 0.8rem;
+  font-size: .8rem;
   font-family: serif;
   color: #222;
 }
@@ -110,7 +110,7 @@ ul {
 }
 
 footer small {
-  font-size: 0.8rem;
+  font-size: .8rem;
   font-family: serif;
   color: #222;
 }
@@ -119,7 +119,7 @@ footer a {
   color: #8f2440
 }
 
-footer a:hover {
+a:hover {
   color: #3f1622;
   text-decoration: underline;
 }

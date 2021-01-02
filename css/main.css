@@ -27,6 +27,7 @@ h1, h2 {
 nav li {
   font-family: sans-serif;
   list-style-type: none;
+  font-size: 1.125rem;
 }
 
 nav li a {

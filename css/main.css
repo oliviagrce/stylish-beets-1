@@ -1,0 +1,13 @@
+html {
+  box-sizing: border-box;
+  font-family: "PT Sans", sans-serif;
+  font-family: "PT Serif", serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: #c9b5ab;
+}

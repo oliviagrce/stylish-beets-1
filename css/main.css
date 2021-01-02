@@ -115,8 +115,9 @@ footer small {
   color: #222;
 }
 
-footer a {
-  color: #8f2440
+a {
+  color: #8f2440;
+  text-decoration: none;
 }
 
 a:hover {

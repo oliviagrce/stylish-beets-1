@@ -12,3 +12,94 @@ html {
 body {
   background-color: #c9b5ab;
 }
+
+img {
+  width: 100%;
+}
+
+h1, h2 {
+  color: #3f1622;
+  font-family: sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+nav li {
+  font-family: sans-serif;
+  list-style-type: none;
+}
+
+nav li a {
+  color: #8f2440;
+  font-weight: bold;
+  list-style: none;
+  text-decoration: none;
+}
+
+p {
+  font-family: serif;
+  font-size: 0.8rem;
+  color: #222;
+}
+
+.germ {
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+
+figcaption {
+  text-align: center;
+  font-family: serif;
+  font-size: 0.8rem;
+  font-style: italic;
+  color: #222;
+}
+
+blockquote p {
+  font-family: serif;
+  font-size: 1.5rem;
+  font-style: italic;
+  color: #222;
+}
+
+strong {
+  font-weight: normal;
+}
+
+footer cite {
+  font-size: 0.8rem;
+  color: #222;
+}
+
+.beet-types li {
+  list-style-type: lower-greek;
+  font-size: 0.8rem;
+  font-family: serif;
+  color: #222;
+}
+
+.serving {
+  font-style: italic;
+}
+
+dl dt {
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: #222;
+}
+
+dl dd {
+  font-size: 0.8rem;
+  font-weight: normal;
+  color: #222;
+}
+
+ul li {
+  font-size: 0.8rem;
+  font-family: serif;
+  color: #222;
+}
+
+ul {
+  list-style-type: circle;
+}
